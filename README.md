@@ -1,4 +1,4 @@
 # Tanvi-Project
 This is my 1st Git repository.
 <br>
-Author - Tanvi (tanvi-pro)
+Author - Tanvi (tanvi-stud)
